@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: forint
+# key: <forint
+# --
+
+for (int ${1:var}=${2:s}; $1 < ${3:e}; $1++) {
+$0
+}

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: namespace_blank
+# key: <nsb
+# --
+
+namespace ${1:namespace} {
+$0
+} //$1
