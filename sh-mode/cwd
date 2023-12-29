@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cwd
+# key: <cwd
+# --
+
+CURR_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+$0

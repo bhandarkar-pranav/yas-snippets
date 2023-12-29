@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: bash_start
+# key: <bstart
+# --
+
+#!/bin/bash
+
+set -euxo pipefail
+$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: omp_sentinel
+# key: <omp
+# --
+
+!$omp $0

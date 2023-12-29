@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: openmp_sentinel
+# key: <omp
+# --
+
+#pragma omp $0
